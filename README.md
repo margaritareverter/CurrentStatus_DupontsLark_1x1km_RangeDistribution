@@ -6,6 +6,9 @@ We consider current status to be the compilation of current data at National lev
 Here 3 .shp layers are shown:
 
 CURRENTSTATUS_1X1KM_Presencia_ricoti_NACIONAL – 1x1km grid cells al national level. 
+
 CURRENTSTATUS_1X1KM_Presencia_ricoti_CCAA – 1x1km grid cells per Autonomous Community. 
+
 CURRENTSTATUS_1X1KM_Presencia_ricoti_CCAA – 1x1km grid cells per Province.
+
 
